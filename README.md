@@ -4,7 +4,7 @@ Informatics student at the University of Washington (Class of 2028), building to
 
 ## 🚀 Current Project
 
-I'm currently building **SpendLens** — an AI-powered personal finance dashboard where users upload bank statements and receive weekly AI-generated insights about how their spending changed.
+I'm currently building **SpendLens**, an AI-powered personal finance dashboard where users upload bank statements and receive weekly AI-generated insights about how their spending has changed.
 
 ## 🛠️ Tech Stack
 
