@@ -8,12 +8,12 @@ I'm currently building **SpendLens**, an AI-powered personal finance dashboard w
 
 ## 🛠️ Tech Stack
 
-- Python
-- FastAPI
-- PostgreSQL
-- React
-- AWS S3
-- OpenAI API
+Languages: Python, JavaScript, R, SQL, HTML/CSS, Java
+Frameworks & Libraries: React, FastAPI
+Databases: PostgreSQL
+Cloud & APIs: AWS S3, OpenAI API, Microsoft Azure
+Design & Research: Figma, UX Research
+Tools: Git, pgAdmin, Google Workspace
 
 ## 📫 Connect with Me!!
 
